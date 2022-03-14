@@ -8,7 +8,7 @@ vectors.
 This repository presents an implementation of  generative deep learning model(Variational Autoencoders) trained on MNIST dataset.
 
 
-![alt text](https://drive.google.com/file/d/1VeYz-nIYwc025KPkQ8Jxhbi5ixe15BdY/view?usp=sharing)
+![alt text](https://github.com/MisterEkole/VAE-Image-Generator/blob/master/vae%20image%20gen.png)
 
 ## Dependencies
 * Tensorflow
